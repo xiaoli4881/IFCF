@@ -1,0 +1,431 @@
+{
+  "task_id": "task_e0215bb2",
+  "timestamp": "2026-01-07T09:57:31.606728",
+  "num_images": 50,
+  "num_clusters": 2,
+  "method": "pca",
+  "clusters": {
+    "cluster_0": {
+      "id": 0,
+      "count": 28,
+      "percentage": 56.00000000000001,
+      "examples": [
+        "test/10308379_1b6c72e180.jpg",
+        "test/1032546534_06907fe3b3.jpg",
+        "test/1053149811_f62a3410d3.jpg"
+      ]
+    },
+    "cluster_1": {
+      "id": 1,
+      "count": 22,
+      "percentage": 44.0,
+      "examples": [
+        "test/10870992_eebeeb3a12.jpg",
+        "test/1181173278_23c36fac71.jpg",
+        "test/119785936_dd428e40c3.jpg"
+      ]
+    }
+  },
+  "file_list": [
+    {
+      "original_name": "test/10308379_1b6c72e180.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -0.5876244306564331,
+        "y": 11.79300308227539
+      }
+    },
+    {
+      "original_name": "test/1032546534_06907fe3b3.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": 0.04280174896121025,
+        "y": 3.3668301105499268
+      }
+    },
+    {
+      "original_name": "test/1053149811_f62a3410d3.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -5.887068748474121,
+        "y": -3.211117744445801
+      }
+    },
+    {
+      "original_name": "test/1073564163_225a64f170.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -5.800871849060059,
+        "y": -5.304248332977295
+      }
+    },
+    {
+      "original_name": "test/10870992_eebeeb3a12.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 2.5131120681762695,
+        "y": -2.180669069290161
+      }
+    },
+    {
+      "original_name": "test/1119630822_cd325ea21a.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -4.417092800140381,
+        "y": 3.5127549171447754
+      }
+    },
+    {
+      "original_name": "test/1124525276_816a07c17f.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -7.704867839813232,
+        "y": -4.405176639556885
+      }
+    },
+    {
+      "original_name": "test/11381045_b352a47d8c.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -1.8421751260757446,
+        "y": -0.024842634797096252
+      }
+    },
+    {
+      "original_name": "test/1181173278_23c36fac71.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 6.05921745300293,
+        "y": -1.650901198387146
+      }
+    },
+    {
+      "original_name": "test/119785936_dd428e40c3.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 4.699025630950928,
+        "y": -0.4340406060218811
+      }
+    },
+    {
+      "original_name": "test/1247887232_edcb61246c.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -0.8798189163208008,
+        "y": 2.236919403076172
+      }
+    },
+    {
+      "original_name": "test/1262751255_c56c042b7b.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 3.6292154788970947,
+        "y": 5.6024169921875
+      }
+    },
+    {
+      "original_name": "test/1297972485_33266a18d9.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 4.704584121704102,
+        "y": -1.5625109672546387
+      }
+    },
+    {
+      "original_name": "test/1328423762_f7a88a8451.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 5.842558860778809,
+        "y": 0.2979239821434021
+      }
+    },
+    {
+      "original_name": "test/1337725712_2eb53cd742.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -4.8309760093688965,
+        "y": -2.3786427974700928
+      }
+    },
+    {
+      "original_name": "test/1355974687_1341c1face.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 5.664426326751709,
+        "y": -2.9036660194396973
+      }
+    },
+    {
+      "original_name": "test/1358854066_5ad8015f7f.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -6.641183853149414,
+        "y": 0.8619205355644226
+      }
+    },
+    {
+      "original_name": "test/1440002809_b268d9a66a.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -7.160375118255615,
+        "y": -0.5609893798828125
+      }
+    },
+    {
+      "original_name": "test/144098310_a4176fd54d.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 6.306703090667725,
+        "y": -3.5640478134155273
+      }
+    },
+    {
+      "original_name": "test/147542264_79506478c2.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -0.698506236076355,
+        "y": -1.985230565071106
+      }
+    },
+    {
+      "original_name": "test/1486120850_490388f84b.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": 1.331888198852539,
+        "y": -0.7949073314666748
+      }
+    },
+    {
+      "original_name": "test/149973093_da3c446268.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 4.4562225341796875,
+        "y": 0.05183366313576698
+      }
+    },
+    {
+      "original_name": "test/151594775_ee7dc17b60.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 3.387347459793091,
+        "y": -2.0451881885528564
+      }
+    },
+    {
+      "original_name": "test/151603988_2c6f7d14c7.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 5.692366600036621,
+        "y": -2.984833240509033
+      }
+    },
+    {
+      "original_name": "test/1519368889_4270261ee3.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 2.281506299972534,
+        "y": 1.9774302244186401
+      }
+    },
+    {
+      "original_name": "test/152286280_411648ec27.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -5.844458103179932,
+        "y": -0.9987471103668213
+      }
+    },
+    {
+      "original_name": "test/152789693_220b003452.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 3.7809712886810303,
+        "y": -2.517102003097534
+      }
+    },
+    {
+      "original_name": "test/153320619_2aeb5fa0ee.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -8.268588066101074,
+        "y": -4.146970748901367
+      }
+    },
+    {
+      "original_name": "test/153783656_85f9c3ac70.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -9.237412452697754,
+        "y": -3.878779172897339
+      }
+    },
+    {
+      "original_name": "test/157401988_d0564a9d02.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -3.751187562942505,
+        "y": 5.600245952606201
+      }
+    },
+    {
+      "original_name": "test/159515240_d5981e20d1.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -1.0686650276184082,
+        "y": 6.270333766937256
+      }
+    },
+    {
+      "original_name": "test/161076144_124db762d6.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -3.4000253677368164,
+        "y": 4.7726969718933105
+      }
+    },
+    {
+      "original_name": "test/161292361_c16e0bf57a.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": 0.21311424672603607,
+        "y": -4.5221686363220215
+      }
+    },
+    {
+      "original_name": "test/170652283_ecdaff5d1a.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -3.1129839420318604,
+        "y": 2.8604066371917725
+      }
+    },
+    {
+      "original_name": "test/17081114_79b9a27724.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": 1.2404797077178955,
+        "y": 11.34505558013916
+      }
+    },
+    {
+      "original_name": "test/172772109_d0a8e15fb0.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 2.294428825378418,
+        "y": 0.14529334008693695
+      }
+    },
+    {
+      "original_name": "test/1743840368_b5ccda82b7.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": 0.5958627462387085,
+        "y": 6.5846028327941895
+      }
+    },
+    {
+      "original_name": "test/177677657_a38c97e572.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 5.033207893371582,
+        "y": -1.5622884035110474
+      }
+    },
+    {
+      "original_name": "test/1799729694_0c40101071.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 3.1853647232055664,
+        "y": -1.5095970630645752
+      }
+    },
+    {
+      "original_name": "test/181171681_c5a1a82ded.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 5.099654197692871,
+        "y": -1.6256520748138428
+      }
+    },
+    {
+      "original_name": "test/181942028_961261ef48.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -6.178333759307861,
+        "y": -5.613921642303467
+      }
+    },
+    {
+      "original_name": "test/183260961_64ab754c97.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -2.9478700160980225,
+        "y": -0.49677303433418274
+      }
+    },
+    {
+      "original_name": "test/187130242_4593a4c610.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 5.906139373779297,
+        "y": -4.346053600311279
+      }
+    },
+    {
+      "original_name": "test/203868383_0fcbb48278.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 4.195181369781494,
+        "y": -0.6275913715362549
+      }
+    },
+    {
+      "original_name": "test/2039585088_c6f47c592e.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -1.3849754333496094,
+        "y": 6.125197887420654
+      }
+    },
+    {
+      "original_name": "test/205398178_c395c5e460.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -3.2183549404144287,
+        "y": -2.1977696418762207
+      }
+    },
+    {
+      "original_name": "test/2060668999_e11edb10d0.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 5.632792949676514,
+        "y": -2.3336586952209473
+      }
+    },
+    {
+      "original_name": "test/208072188_f293096296.jpg",
+      "cluster": 0,
+      "dimensions": {
+        "x": -5.0571770668029785,
+        "y": 1.191705584526062
+      }
+    },
+    {
+      "original_name": "test/2086294791_6f3789d8a6.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 2.548090934753418,
+        "y": -2.043487548828125
+      }
+    },
+    {
+      "original_name": "test/209615353_eeb38ba204.jpg",
+      "cluster": 1,
+      "dimensions": {
+        "x": 3.584322452545166,
+        "y": -0.185000479221344
+      }
+    }
+  ]
+}
